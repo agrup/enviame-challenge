@@ -1,6 +1,6 @@
 ## Enviame Challenge
 
-# Ejercicios 3-4-5-7 del challenge
+# Ejercicios 3-4-5-6-7 del challenge
 
 # requerimientos
 
