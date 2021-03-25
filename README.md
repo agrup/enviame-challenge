@@ -50,6 +50,11 @@ esto retorna la respuesta a cual es el primer numero en la sucesion de fibonacci
 Se genero una funcion 'calcularDias' que retorna los dias de demora en la entrega con respecto a una distancia 
 se generan 10 numeros de forma random y se imprime los dias de demora
 
+
+```bash
+    python3 Ejercicio6.py
+```
+
 # Ejercicio 7
 
 cuenta con la consulta para resolver el problema planteado en este ejercicio
